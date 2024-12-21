@@ -1,0 +1,11 @@
+# Ignorar archivos y carpetas innecesarios
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.env
+venv/
+.idea/
+.vscode/
+.DS_Store
+*.log
